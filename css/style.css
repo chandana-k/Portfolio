@@ -286,7 +286,7 @@ section {
 }
 .home-layer {
     position: absolute;
-    background: rgba(255, 255, 255, .8);
+    /* background: rgba(255, 255, 255, .8); */
     width: 100%
 }
 .home-content {
@@ -675,7 +675,7 @@ button.mfp-close:hover {
     color: #8c8c8c
 }
 .testimonial-background {
-    background: url(../images/background.jpg) center center no-repeat;
+    background: url(../images/background.jpeg) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
